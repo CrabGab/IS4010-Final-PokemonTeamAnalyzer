@@ -40,3 +40,12 @@ python main.py <pokemon_name_1> <pokemon_name_2> ...
 ```bash
 python main.py pikachu charizard blastoise
 ```
+
+## Testing
+
+Run the test suite with pytest:
+
+```bash
+pip install pytest
+python -m pytest tests/
+```
