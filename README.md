@@ -1,5 +1,9 @@
 # Pokémon Legends: Z-A Team Planner
 
+![Tests](https://github.com/CrabGab/IS4010-Final-PokemonTeamAnalyzer/actions/workflows/tests.yml/badge.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)
+
 This is a command-line tool to help you plan your Pokémon team for the upcoming game, Pokémon Legends: Z-A.
 
 ## Features
@@ -12,11 +16,11 @@ This is a command-line tool to help you plan your Pokémon team for the upcoming
 
 1.  Clone this repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/CrabGab/IS4010-Final-PokemonTeamAnalyzer.git
     ```
 2.  Navigate to the project directory:
     ```bash
-    cd <project-directory>
+    cd IS4010-Final-PokemonTeamAnalyzer
     ```
 3.  Install the required dependencies:
     ```bash
