@@ -33,7 +33,7 @@ Z_A_POKEMON = [
 # The script will fetch the rest of the data from the PokéAPI.
 # --------------------------
 KALOS_BOSSES = {
-    'Early Trainers': {
+    'Zack Split': {
         'Andi the Backpacker': [('pancham', 4)],
         'Brigitte the Waitress': [('cleffa', 4), ('bunnelby', 4)],
         'Urbain/Taunie of Team MZ (Chikorita)': [('totodile', 5), ('tepig', 5)],
@@ -41,20 +41,26 @@ KALOS_BOSSES = {
         'Urbain/Taunie of Team MZ (Tepig)': [('chikorita', 5), ('totodile', 5)],
         'Zach the Driver': [('slowpoke', 8), ('pidgey', 9), ('pikachu', 9)]
     },
-    'Mid Trainers': {
+    'Yvon Split': {
         'Josee of the Fist of Justice': [('machop', 10), ('meditite', 11)],
         'Detective Emma': [('mareep', 15)],
         'Yvon the Office Worker': [('spritzee', 15), ('swirlix', 15), ('vivillon', 16)],
+    },
+    'Xavi Split': {
         'Naveen of Team MZ': [('spinarak', 16), ('sableye', 16), ('scraggy', 17)],
         'Xavi the Grade-Schooler': [('venipede', 20), ('roselia', 20), ('kadabra', 21), ('furfrou', 21)],
+    },
+    'Rintaro Split': {
         'Lida of Team MZ': [('clauncher', 22), ('vanillite', 22), ('staryu', 23)],
         'Rintaro': [('simisage', 24), ('simipour', 24), ('simisear', 24)],
+    },
+    'Vinnie Split': {
         'Urbain/Taunie of Team MZ (Chikorita - Mid)': [('croconaw', 25), ('pignite', 25), ('manectric-mega', 26)],
         'Urbain/Taunie of Team MZ (Totodile - Mid)': [('pignite', 25), ('bayleef', 25), ('manectric-mega', 26)],
         'Urbain/Taunie of Team MZ (Tepig - Mid)': [('bayleef', 25), ('croconaw', 25), ('manectric-mega', 26)],
         'Vinnie of Quasartico Inc.': [('houndoom', 30), ('sharpedo', 30), ('buneary', 30), ('drampa-mega', 32)]
     },
-    'Syndicate Trainers': {
+    'Corbeau Split': {
         'Rust Syndicate Grunt': [('garbodor', 44), ('lairon', 44)],
         'Philippe of the Rust Syndicate': [('steelix', 46), ('scizor', 46), ('skarmory-mega', 47)],
         'Gwynn of the Fist of Justice': [('banette', 45), ('gourgeist-average', 46), ('gengar', 46), ('chandelure-mega', 47)],
