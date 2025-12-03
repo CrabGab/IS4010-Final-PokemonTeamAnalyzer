@@ -1,66 +1,14 @@
-# Ignore all files and directories that are not part of the project
-.cache/
-.cargo/
-.cisco/
-.config/
-.dotnet/
-.gemini/
-.idlerc/
-.nuget/
-.Origin/
-.pytest_cache/
-.QtWebEngineProcess/
-.rustup/
-.templateengine/
-3D Objects/
-ansel/
-AppData/
-Application Data/
-Contacts/
-Cookies/
-curseforge/
-Data/
-Desktop/
-Documents/
-Downloads/
-Favorites/
-Intel/
-is4010-CrabGab-labs/
-is4010-final-za-planner/
-IS4010-Midtern-PokeAPI/
-Links/
-Local Settings/
-madden-franchise-editor/
-madden.api/
-MaddenExport/
-MaddenStats/
-Music/
-My Documents/
-NetHood/
-OneDrive/
-Pictures/
-pkmn-damage-calc/
-PrintHood/
-Recent/
-Saved Games/
-Searches/
-SendTo/
-source/
-Start Menu/
-Templates/
-venv/
-Videos/
-Zomboid/
-.bash_history
-.gitconfig
-.lesshst
-.viminfo
-NTUSER.DAT
-ntuser.dat.LOG1
-ntuser.dat.LOG2
-NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TM.blf
-NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TMContainer00000000000000000001.regtrans-ms
-NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TMContainer00000000000000000002.regtrans-ms
-ntuser.ini
-temp_parser_v2.py
-tests/__pycache__/
+# Ignore everything
+*
+
+# Un-ignore specific files and directories
+!/.gitignore
+!/main.py
+!/requirements.txt
+!/src/
+!/tests/
+!/venv/
+!/README.md
+!/AGENTS.md
+!/LICENSE
+!/.github/
