@@ -1,6 +1,6 @@
 # Pokémon Legends: Z-A Team Planner
 
-![Tests](https://github.com/CrabGab/IS4010-Final-PokemonTeamAnalyzer/actions/workflows/tests.yml/badge.svg)
+![Run Tests](https://github.com/CrabGab/IS4010-Final-PokemonTeamAnalyzer/actions/workflows/tests.yml/badge.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)
 
@@ -40,4 +40,3 @@ python main.py <pokemon_name_1> <pokemon_name_2> ...
 ```bash
 python main.py pikachu charizard blastoise
 ```
-
