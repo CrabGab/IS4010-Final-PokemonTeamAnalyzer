@@ -48,9 +48,3 @@ def test_analyze_team_defenses():
     assert coverage["water"]["resist"] == 2
     assert coverage["electric"]["weak"] == 2
     assert coverage["ground"]["immune"] == 1
-
-def test_failing_test():
-    """
-    This is a test that is designed to fail.
-    """
-    assert False
