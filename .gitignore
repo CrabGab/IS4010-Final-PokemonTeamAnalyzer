@@ -1,0 +1,10 @@
+# Ignore everything in the directory
+*
+
+# But re-include the following files and directories
+!/.gitignore
+!/main.py
+!/requirements.txt
+!/src/
+!/tests/
+!/venv/
