@@ -47,5 +47,5 @@ Run the test suite with pytest:
 
 ```bash
 pip install pytest
-python -m pytest tests/
+python -m pytest tests/test_project_core.py
 ```
