@@ -40,3 +40,4 @@ python main.py <pokemon_name_1> <pokemon_name_2> ...
 ```bash
 python main.py pikachu charizard blastoise
 ```
+
